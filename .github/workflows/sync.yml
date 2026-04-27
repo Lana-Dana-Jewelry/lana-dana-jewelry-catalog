@@ -9,14 +9,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - name: Run sync script
         run: node update.js
         env:
           FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+          
       - name: Commit and Push
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add products.json
-          git commit -m "Catalog auto-update" || exit 0
+          git commit -m "Catalog update: $(date)" || echo "No changes to commit"
           git push
+          
+      - name: Purge jsDelivr Cache
+        run: |
+          curl -i https://purge.jsdelivr.net/gh/Lana-Dana-Jewelry/lana-dana-jewelry-catalog@main/products.json
