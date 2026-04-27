@@ -22,7 +22,3 @@ jobs:
           git add products.json
           git commit -m "Catalog update: $(date)" || echo "No changes to commit"
           git push
-          
-      - name: Purge jsDelivr Cache
-        run: |
-          curl -i https://purge.jsdelivr.net/gh/Lana-Dana-Jewelry/lana-dana-jewelry-catalog@main/products.json
