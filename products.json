@@ -3,7 +3,7 @@
     "id": "2iNGRUAzy0q1HoqGNwGi",
     "name": "Серьги «Весеннее Цветение»",
     "category": "earrings",
-    "price": 0,
+    "price": 2500,
     "mainImage": "https://i.ibb.co/HTYHLtfN/img-1776873684237.jpg",
     "gallery": [
       "https://i.ibb.co/HTYHLtfN/img-1776873684237.jpg",
@@ -16,9 +16,9 @@
       "Длина 4 см",
       "Надежный английский замок"
     ],
-    "isNew": false,
-    "inStock": false,
-    "isActive": false,
+    "isNew": true,
+    "inStock": true,
+    "isActive": true,
     "type": "single",
     "slug": "sergi-vesennee-tsvetenie",
     "createdAt": "2026-04-22T16:01:45.493Z"
@@ -27,7 +27,7 @@
     "id": "bSGwiylJLJNmRyr1gFpe",
     "name": "Колье «Малайзийский Нефрит»",
     "category": "necklaces",
-    "price": 0,
+    "price": 2500,
     "mainImage": "https://i.ibb.co/PvWtcCSr/img-1776873495659.jpg",
     "gallery": [
       "https://i.ibb.co/PvWtcCSr/img-1776873495659.jpg",
@@ -39,9 +39,9 @@
       "Длина 40 см",
       "Трансформер (колье или браслет в 2 оборота)"
     ],
-    "isNew": false,
-    "inStock": false,
-    "isActive": false,
+    "isNew": true,
+    "inStock": true,
+    "isActive": true,
     "type": "single",
     "slug": "kole-malayziyskiy-nefrit",
     "createdAt": "2026-04-22T15:58:35.980Z"
@@ -50,7 +50,7 @@
     "id": "09Qs1InveyFAsDiBscHE",
     "name": "«Южный Бриз» — Серьги",
     "category": "earrings",
-    "price": 0,
+    "price": 2500,
     "mainImage": "https://i.ibb.co/vvPNL4V1/img-1777269784067.jpg",
     "gallery": [
       "https://i.ibb.co/WvXLfJCy/img-1776873097065.jpg",
@@ -63,8 +63,8 @@
       "Жемчуг Майорка"
     ],
     "isNew": false,
-    "inStock": false,
-    "isActive": false,
+    "inStock": true,
+    "isActive": true,
     "type": "single",
     "slug": "yuzhnyy-briz-sergi",
     "createdAt": "2026-04-22T15:52:00.618Z"
@@ -73,7 +73,7 @@
     "id": "DS8K7Z2CmG6q72H40QB1",
     "name": "«Южный Бриз» — Колье",
     "category": "necklaces",
-    "price": 0,
+    "price": 5900,
     "mainImage": "https://i.ibb.co/zhkKw381/img-1777269924947.jpg",
     "gallery": [
       "https://i.ibb.co/8L0ST7jF/img-1776873011051.jpg",
@@ -88,8 +88,8 @@
       "Три нити жемчуга"
     ],
     "isNew": false,
-    "inStock": false,
-    "isActive": false,
+    "inStock": true,
+    "isActive": true,
     "type": "single",
     "slug": "yuzhnyy-briz-kole",
     "createdAt": "2026-04-22T15:51:59.920Z"
@@ -98,7 +98,7 @@
     "id": "2vgbG0aKwOrZzjtJExcD",
     "name": "Гарнитур «Южный Бриз»",
     "category": "sets",
-    "price": 0,
+    "price": 8400,
     "mainImage": "https://i.ibb.co/Xfq6cPT4/img-1776873115337.jpg",
     "gallery": [
       "https://i.ibb.co/Xfq6cPT4/img-1776873115337.jpg"
@@ -109,9 +109,9 @@
       "Натуральный жемчуг",
       "Морской стиль"
     ],
-    "isNew": false,
-    "inStock": false,
-    "isActive": false,
+    "isNew": true,
+    "inStock": true,
+    "isActive": true,
     "type": "bundle",
     "slug": "garnitur-yuzhnyy-briz",
     "createdAt": "2026-04-22T15:51:59.076Z"
@@ -120,7 +120,7 @@
     "id": "iIs2KfAq5kjmRASmUWQC",
     "name": "«Голубика и Сапфиры» — Серьги",
     "category": "earrings",
-    "price": 0,
+    "price": 4800,
     "mainImage": "https://i.ibb.co/5gWpV7Qx/img-1776872483819.jpg",
     "gallery": [
       "https://i.ibb.co/5gWpV7Qx/img-1776872483819.jpg"
@@ -132,8 +132,8 @@
       "Английский замок"
     ],
     "isNew": false,
-    "inStock": false,
-    "isActive": false,
+    "inStock": true,
+    "isActive": true,
     "type": "single",
     "slug": "golubika-i-sapfiry-sergi",
     "createdAt": "2026-04-22T15:42:46.788Z"
@@ -142,7 +142,7 @@
     "id": "oFiChBUK7t4gby7ghTWA",
     "name": "«Голубика и Сапфиры» — Браслет-трансформер",
     "category": "bracelets",
-    "price": 0,
+    "price": 7900,
     "mainImage": "https://i.ibb.co/XxKcvYxd/img-1776872400255.jpg",
     "gallery": [
       "https://i.ibb.co/XxKcvYxd/img-1776872400255.jpg",
@@ -155,8 +155,8 @@
       "Позолоченный сплав"
     ],
     "isNew": false,
-    "inStock": false,
-    "isActive": false,
+    "inStock": true,
+    "isActive": true,
     "type": "single",
     "slug": "golubika-i-sapfiry-braslet-transformer",
     "createdAt": "2026-04-22T15:42:41.109Z"
@@ -165,7 +165,7 @@
     "id": "mrAqpLj7xHyRiTd2HjyY",
     "name": "Роскошный гарнитур «Голубика и Сапфиры»",
     "category": "sets",
-    "price": 0,
+    "price": 11800,
     "mainImage": "https://i.ibb.co/hx5xjrQF/img-1776872497445.jpg",
     "gallery": [
       "https://i.ibb.co/hx5xjrQF/img-1776872497445.jpg",
@@ -177,9 +177,9 @@
       "Трансформер: браслет + браслет = колье",
       "Ручная работа (Lampwork)"
     ],
-    "isNew": false,
-    "inStock": false,
-    "isActive": false,
+    "isNew": true,
+    "inStock": true,
+    "isActive": true,
     "type": "bundle",
     "slug": "roskoshnyy-garnitur-golubika-i-sapfiry",
     "createdAt": "2026-04-22T15:42:33.359Z"
@@ -188,7 +188,7 @@
     "id": "LHz3vgeSTIW1NCWA9Ycy",
     "name": "«Лавандовая Голубика» — Серьги",
     "category": "earrings",
-    "price": 0,
+    "price": 4500,
     "mainImage": "https://i.ibb.co/mrGbcqGB/img-1776870518490.jpg",
     "gallery": [
       "https://i.ibb.co/mrGbcqGB/img-1776870518490.jpg"
@@ -200,8 +200,8 @@
       "Удобная швенза (застежка)"
     ],
     "isNew": false,
-    "inStock": false,
-    "isActive": false,
+    "inStock": true,
+    "isActive": true,
     "type": "single",
     "slug": "lavandovaya-golubika-sergi",
     "createdAt": "2026-04-22T15:08:48.744Z"
@@ -210,7 +210,7 @@
     "id": "aGrUA0ccHaC6TyTq10uc",
     "name": "«Лавандовая Голубика» — Браслет",
     "category": "bracelets",
-    "price": 0,
+    "price": 7500,
     "mainImage": "https://i.ibb.co/6cCL740F/img-1776870459543.jpg",
     "gallery": [
       "https://i.ibb.co/6cCL740F/img-1776870459543.jpg"
@@ -222,8 +222,8 @@
       "Фурнитура с позолотой"
     ],
     "isNew": false,
-    "inStock": false,
-    "isActive": false,
+    "inStock": true,
+    "isActive": true,
     "type": "single",
     "slug": "lavandovaya-golubika-braslet",
     "createdAt": "2026-04-22T15:08:47.821Z"
@@ -232,7 +232,7 @@
     "id": "oxJzPaymvY2VqCGvJkPu",
     "name": "Гарнитур «Лавандовая Голубика»",
     "category": "sets",
-    "price": 0,
+    "price": 11000,
     "mainImage": "https://i.ibb.co/tptxffKK/img-1776870372828.jpg",
     "gallery": [
       "https://i.ibb.co/DfqKG8vb/img-1776870363517.jpg",
@@ -241,9 +241,9 @@
     "material": "Лавандовый аметист, нефрит, циркон, морозный агат, стекло Lampwork, позолоченный бижутерный сплав.",
     "story": "Изысканный авторский гарнитур, вдохновленный нежностью северной ягоды. В центре композиции — стеклянные бусины лэмпворк ручной работы в виде спелой голубики.\nБраслет обладает секретом: если у вас есть два подобных изделия из нашей мастерской, их можно соединить между собой, превратив в роскошное колье.",
     "specs": [],
-    "isNew": false,
-    "inStock": false,
-    "isActive": false,
+    "isNew": true,
+    "inStock": true,
+    "isActive": true,
     "type": "bundle",
     "slug": "garnitur-lavandovaya-golubika",
     "createdAt": "2026-04-22T15:08:47.160Z"
