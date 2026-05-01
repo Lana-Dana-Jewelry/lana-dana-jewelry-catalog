@@ -9,12 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Run sync script
         run: node update.js
         env:
-          FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
-          
+          YANDEX_API_URL: ${{ secrets.YANDEX_API_URL }}
+
       - name: Commit and Push
         run: |
           git config user.name "GitHub Action"
