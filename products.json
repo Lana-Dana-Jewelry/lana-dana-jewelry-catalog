@@ -1,5 +1,234 @@
 [
   {
+    "id": "2vgbG0aKwOrZzjtJExcD",
+    "name": "Гарнитур «Южный Бриз»",
+    "slug": "garnitur-yuzhnyy-briz",
+    "category": "sets",
+    "price": 8400,
+    "mainImage": "https://i.ibb.co/Xfq6cPT4/img-1776873115337.jpg",
+    "gallery": [
+      "https://i.ibb.co/Xfq6cPT4/img-1776873115337.jpg"
+    ],
+    "material": "Натуральный жемчуг, жемчуг Майорка, позолоченная фурнитура.",
+    "story": "Лето, море, пляж… Южный морской бриз ласкает тело.",
+    "specs": [
+      "Натуральный жемчуг",
+      "Морской стиль"
+    ],
+    "isNew": true,
+    "inStock": true,
+    "isActive": true,
+    "type": "bundle",
+    "childIds": [
+      "09Qs1InveyFAsDiBscHE",
+      "DS8K7Z2CmG6q72H40QB1"
+    ],
+    "parentId": "",
+    "createdAt": "2026-05-19T15:27:57.148Z"
+  },
+  {
+    "id": "DS8K7Z2CmG6q72H40QB1",
+    "name": "«Южный Бриз» — Колье",
+    "slug": "yuzhnyy-briz-kole",
+    "category": "necklaces",
+    "price": 5900,
+    "mainImage": "https://i.ibb.co/8L0ST7jF/img-1776873011051.jpg",
+    "gallery": [
+      "https://i.ibb.co/8L0ST7jF/img-1776873011051.jpg",
+      "https://i.ibb.co/CpBVXCs9/img-1776873016992.jpg",
+      "https://i.ibb.co/Wvc2NPp9/img-1776873022306.jpg",
+      "https://i.ibb.co/zhkKw381/img-1777269924947.jpg"
+    ],
+    "material": "Натуральный жемчуг, позолота",
+    "story": "Изысканное колье из трех нитей натурального жемчуга.",
+    "specs": [
+      "Длина 40 см",
+      "Три нити жемчуга"
+    ],
+    "isNew": false,
+    "inStock": true,
+    "isActive": true,
+    "type": "single",
+    "childIds": [],
+    "parentId": "2vgbG0aKwOrZzjtJExcD",
+    "createdAt": "2026-05-19T15:27:57.073Z"
+  },
+  {
+    "id": "09Qs1InveyFAsDiBscHE",
+    "name": "«Южный Бриз» — Серьги",
+    "slug": "yuzhnyy-briz-sergi",
+    "category": "earrings",
+    "price": 2500,
+    "mainImage": "https://i.ibb.co/WvXLfJCy/img-1776873097065.jpg",
+    "gallery": [
+      "https://i.ibb.co/WvXLfJCy/img-1776873097065.jpg",
+      "https://i.ibb.co/vvPNL4V1/img-1777269784067.jpg"
+    ],
+    "material": "Жемчуг Майорка, позолоченный сплав",
+    "story": "Длинные, струящиеся серьги с жемчугом Майорка.",
+    "specs": [
+      "Длина 7,5 см",
+      "Жемчуг Майорка"
+    ],
+    "isNew": false,
+    "inStock": true,
+    "isActive": true,
+    "type": "single",
+    "childIds": [],
+    "parentId": "2vgbG0aKwOrZzjtJExcD",
+    "createdAt": "2026-05-19T15:27:57.010Z"
+  },
+  {
+    "id": "mrAqpLj7xHyRiTd2HjyY",
+    "name": "Роскошный гарнитур «Голубика и Сапфиры»",
+    "slug": "roskoshnyy-garnitur-golubika-i-sapfiry",
+    "category": "sets",
+    "price": 11800,
+    "mainImage": "https://i.ibb.co/hx5xjrQF/img-1776872497445.jpg",
+    "gallery": [
+      "https://i.ibb.co/hx5xjrQF/img-1776872497445.jpg",
+      "https://i.ibb.co/3wTtK05/img-1776872515001.jpg"
+    ],
+    "material": "Зеленый циркон, сапфиры, аметист, лэмпворк.",
+    "story": "Роскошный комплект, собравший в себе энергию природных камней.",
+    "specs": [
+      "Трансформер",
+      "Ручная работа"
+    ],
+    "isNew": true,
+    "inStock": true,
+    "isActive": true,
+    "type": "bundle",
+    "childIds": [
+      "iIs2KfAq5kjmRASmUWQC",
+      "oFiChBUK7t4gby7ghTWA"
+    ],
+    "parentId": "",
+    "createdAt": "2026-05-19T15:27:51.863Z"
+  },
+  {
+    "id": "oFiChBUK7t4gby7ghTWA",
+    "name": "«Голубика и Сапфиры» — Браслет-трансформер",
+    "slug": "golubika-i-sapfiry-braslet-transformer",
+    "category": "bracelets",
+    "price": 7900,
+    "mainImage": "https://i.ibb.co/XxKcvYxd/img-1776872400255.jpg",
+    "gallery": [
+      "https://i.ibb.co/XxKcvYxd/img-1776872400255.jpg",
+      "https://i.ibb.co/bjdNBzxj/img-1776872415927.jpg"
+    ],
+    "material": "Аметист, сапфиры, позолота.",
+    "story": "Авторский браслет из крупной галтовки аметиста.",
+    "specs": [
+      "Длина 21 см",
+      "Позолоченный сплав"
+    ],
+    "isNew": false,
+    "inStock": true,
+    "isActive": true,
+    "type": "single",
+    "childIds": [],
+    "parentId": "mrAqpLj7xHyRiTd2HjyY",
+    "createdAt": "2026-05-19T15:27:51.799Z"
+  },
+  {
+    "id": "iIs2KfAq5kjmRASmUWQC",
+    "name": "«Голубика и Сапфиры» — Серьги",
+    "slug": "golubika-i-sapfiry-sergi",
+    "category": "earrings",
+    "price": 4800,
+    "mainImage": "https://i.ibb.co/5gWpV7Qx/img-1776872483819.jpg",
+    "gallery": [
+      "https://i.ibb.co/5gWpV7Qx/img-1776872483819.jpg"
+    ],
+    "material": "Зеленый циркон, синие сапфиры, аметист, авторский лэмпворк.",
+    "story": "Изящные серьги, в которых акцент сделан на игре света.",
+    "specs": [
+      "Длина 5,5 см",
+      "Английский замок"
+    ],
+    "isNew": false,
+    "inStock": true,
+    "isActive": true,
+    "type": "single",
+    "childIds": [],
+    "parentId": "mrAqpLj7xHyRiTd2HjyY",
+    "createdAt": "2026-05-19T15:27:51.742Z"
+  },
+  {
+    "id": "oxJzPaymvY2VqCGvJkPu",
+    "name": "Гарнитур «Лавандовая Голубика»",
+    "slug": "garnitur-lavandovaya-golubika",
+    "category": "sets",
+    "price": 11000,
+    "mainImage": "https://i.ibb.co/DfqKG8vb/img-1776870363517.jpg",
+    "gallery": [
+      "https://i.ibb.co/DfqKG8vb/img-1776870363517.jpg",
+      "https://i.ibb.co/tptxffKK/img-1776870372828.jpg"
+    ],
+    "material": "Аметист, нефрит, циркон, морозный агат.",
+    "story": "Изысканный авторский гарнитур.",
+    "specs": [],
+    "isNew": true,
+    "inStock": true,
+    "isActive": true,
+    "type": "bundle",
+    "childIds": [
+      "LHz3vgeSTIW1NCWA9Ycy",
+      "aGrUA0ccHaC6TyTq10uc"
+    ],
+    "parentId": "",
+    "createdAt": "2026-05-19T15:27:43.996Z"
+  },
+  {
+    "id": "aGrUA0ccHaC6TyTq10uc",
+    "name": "«Лавандовая Голубика» — Браслет",
+    "slug": "lavandovaya-golubika-braslet",
+    "category": "bracelets",
+    "price": 7500,
+    "mainImage": "https://i.ibb.co/6cCL740F/img-1776870459543.jpg",
+    "gallery": [
+      "https://i.ibb.co/6cCL740F/img-1776870459543.jpg"
+    ],
+    "material": "Аметист, нефрит, циркон, лэмпворк.",
+    "story": "Браслет с надежным замочком.",
+    "specs": [
+      "Длина 20 см",
+      "Фурнитура с позолотой"
+    ],
+    "isNew": false,
+    "inStock": true,
+    "isActive": true,
+    "type": "single",
+    "childIds": [],
+    "parentId": "oxJzPaymvY2VqCGvJkPu",
+    "createdAt": "2026-05-19T15:27:43.938Z"
+  },
+  {
+    "id": "LHz3vgeSTIW1NCWA9Ycy",
+    "name": "«Лавандовая Голубика» — Серьги",
+    "slug": "lavandovaya-golubika-sergi",
+    "category": "earrings",
+    "price": 4500,
+    "mainImage": "https://i.ibb.co/mrGbcqGB/img-1776870518490.jpg",
+    "gallery": [
+      "https://i.ibb.co/mrGbcqGB/img-1776870518490.jpg"
+    ],
+    "material": "Аметист, нефрит, циркон, позолота.",
+    "story": "Легкие и изящные серьги.",
+    "specs": [
+      "Длина 5,5 см",
+      "Удобная швенза"
+    ],
+    "isNew": false,
+    "inStock": true,
+    "isActive": true,
+    "type": "single",
+    "childIds": [],
+    "parentId": "oxJzPaymvY2VqCGvJkPu",
+    "createdAt": "2026-05-19T15:27:43.875Z"
+  },
+  {
     "id": "2iNGRUAzy0q1HoqGNwGi",
     "name": "Серьги «Весеннее Цветение»",
     "slug": "sergi-vesennee-tsvetenie",
@@ -48,234 +277,5 @@
     "childIds": [],
     "parentId": "",
     "createdAt": "2026-04-22T15:58:35.000Z"
-  },
-  {
-    "id": "09Qs1InveyFAsDiBscHE",
-    "name": "«Южный Бриз» — Серьги",
-    "slug": "yuzhnyy-briz-sergi",
-    "category": "earrings",
-    "price": 2500,
-    "mainImage": "https://i.ibb.co/vvPNL4V1/img-1777269784067.jpg",
-    "gallery": [
-      "https://i.ibb.co/WvXLfJCy/img-1776873097065.jpg",
-      "https://i.ibb.co/vvPNL4V1/img-1777269784067.jpg"
-    ],
-    "material": "Жемчуг Майорка, позолоченный сплав",
-    "story": "Длинные, струящиеся серьги с жемчугом Майорка.",
-    "specs": [
-      "Длина 7,5 см",
-      "Жемчуг Майорка"
-    ],
-    "isNew": false,
-    "inStock": true,
-    "isActive": true,
-    "type": "single",
-    "childIds": [],
-    "parentId": "",
-    "createdAt": "2026-04-22T15:52:00.000Z"
-  },
-  {
-    "id": "2vgbG0aKwOrZzjtJExcD",
-    "name": "Гарнитур «Южный Бриз»",
-    "slug": "garnitur-yuzhnyy-briz",
-    "category": "sets",
-    "price": 8400,
-    "mainImage": "https://i.ibb.co/Xfq6cPT4/img-1776873115337.jpg",
-    "gallery": [
-      "https://i.ibb.co/Xfq6cPT4/img-1776873115337.jpg"
-    ],
-    "material": "Натуральный жемчуг, жемчуг Майорка, позолоченная фурнитура.",
-    "story": "Лето, море, пляж… Южный морской бриз ласкает тело.",
-    "specs": [
-      "Натуральный жемчуг",
-      "Морской стиль"
-    ],
-    "isNew": true,
-    "inStock": true,
-    "isActive": true,
-    "type": "bundle",
-    "childIds": [
-      "09Qs1InveyFAsDiBscHE",
-      "DS8K7Z2CmG6q72H40QB1"
-    ],
-    "parentId": "",
-    "createdAt": "2026-04-22T15:51:59.000Z"
-  },
-  {
-    "id": "DS8K7Z2CmG6q72H40QB1",
-    "name": "«Южный Бриз» — Колье",
-    "slug": "yuzhnyy-briz-kole",
-    "category": "necklaces",
-    "price": 5900,
-    "mainImage": "https://i.ibb.co/zhkKw381/img-1777269924947.jpg",
-    "gallery": [
-      "https://i.ibb.co/8L0ST7jF/img-1776873011051.jpg",
-      "https://i.ibb.co/CpBVXCs9/img-1776873016992.jpg",
-      "https://i.ibb.co/Wvc2NPp9/img-1776873022306.jpg",
-      "https://i.ibb.co/zhkKw381/img-1777269924947.jpg"
-    ],
-    "material": "Натуральный жемчуг, позолота",
-    "story": "Изысканное колье из трех нитей натурального жемчуга.",
-    "specs": [
-      "Длина 40 см",
-      "Три нити жемчуга"
-    ],
-    "isNew": false,
-    "inStock": true,
-    "isActive": true,
-    "type": "single",
-    "childIds": [],
-    "parentId": "",
-    "createdAt": "2026-04-22T15:51:59.000Z"
-  },
-  {
-    "id": "iIs2KfAq5kjmRASmUWQC",
-    "name": "«Голубика и Сапфиры» — Серьги",
-    "slug": "golubika-i-sapfiry-sergi",
-    "category": "earrings",
-    "price": 4800,
-    "mainImage": "https://i.ibb.co/5gWpV7Qx/img-1776872483819.jpg",
-    "gallery": [
-      "https://i.ibb.co/5gWpV7Qx/img-1776872483819.jpg"
-    ],
-    "material": "Зеленый циркон, синие сапфиры, аметист, авторский лэмпворк.",
-    "story": "Изящные серьги, в которых акцент сделан на игре света.",
-    "specs": [
-      "Длина 5,5 см",
-      "Английский замок"
-    ],
-    "isNew": false,
-    "inStock": true,
-    "isActive": true,
-    "type": "single",
-    "childIds": [],
-    "parentId": "",
-    "createdAt": "2026-04-22T15:42:46.000Z"
-  },
-  {
-    "id": "oFiChBUK7t4gby7ghTWA",
-    "name": "«Голубика и Сапфиры» — Браслет-трансформер",
-    "slug": "golubika-i-sapfiry-braslet-transformer",
-    "category": "bracelets",
-    "price": 7900,
-    "mainImage": "https://i.ibb.co/XxKcvYxd/img-1776872400255.jpg",
-    "gallery": [
-      "https://i.ibb.co/XxKcvYxd/img-1776872400255.jpg",
-      "https://i.ibb.co/bjdNBzxj/img-1776872415927.jpg"
-    ],
-    "material": "Аметист, сапфиры, позолота.",
-    "story": "Авторский браслет из крупной галтовки аметиста.",
-    "specs": [
-      "Длина 21 см",
-      "Позолоченный сплав"
-    ],
-    "isNew": false,
-    "inStock": true,
-    "isActive": true,
-    "type": "single",
-    "childIds": [],
-    "parentId": "",
-    "createdAt": "2026-04-22T15:42:41.000Z"
-  },
-  {
-    "id": "mrAqpLj7xHyRiTd2HjyY",
-    "name": "Роскошный гарнитур «Голубика и Сапфиры»",
-    "slug": "roskoshnyy-garnitur-golubika-i-sapfiry",
-    "category": "sets",
-    "price": 11800,
-    "mainImage": "https://i.ibb.co/hx5xjrQF/img-1776872497445.jpg",
-    "gallery": [
-      "https://i.ibb.co/hx5xjrQF/img-1776872497445.jpg",
-      "https://i.ibb.co/3wTtK05/img-1776872515001.jpg"
-    ],
-    "material": "Зеленый циркон, сапфиры, аметист, лэмпворк.",
-    "story": "Роскошный комплект, собравший в себе энергию природных камней.",
-    "specs": [
-      "Трансформер",
-      "Ручная работа"
-    ],
-    "isNew": true,
-    "inStock": true,
-    "isActive": true,
-    "type": "bundle",
-    "childIds": [
-      "iIs2KfAq5kjmRASmUWQC",
-      "oFiChBUK7t4gby7ghTWA"
-    ],
-    "parentId": "",
-    "createdAt": "2026-04-22T15:42:33.000Z"
-  },
-  {
-    "id": "LHz3vgeSTIW1NCWA9Ycy",
-    "name": "«Лавандовая Голубика» — Серьги",
-    "slug": "lavandovaya-golubika-sergi",
-    "category": "earrings",
-    "price": 4500,
-    "mainImage": "https://i.ibb.co/mrGbcqGB/img-1776870518490.jpg",
-    "gallery": [
-      "https://i.ibb.co/mrGbcqGB/img-1776870518490.jpg"
-    ],
-    "material": "Аметист, нефрит, циркон, позолота.",
-    "story": "Легкие и изящные серьги.",
-    "specs": [
-      "Длина 5,5 см",
-      "Удобная швенза"
-    ],
-    "isNew": false,
-    "inStock": true,
-    "isActive": true,
-    "type": "single",
-    "childIds": [],
-    "parentId": "",
-    "createdAt": "2026-04-22T15:08:48.000Z"
-  },
-  {
-    "id": "oxJzPaymvY2VqCGvJkPu",
-    "name": "Гарнитур «Лавандовая Голубика»",
-    "slug": "garnitur-lavandovaya-golubika",
-    "category": "sets",
-    "price": 11000,
-    "mainImage": "https://i.ibb.co/tptxffKK/img-1776870372828.jpg",
-    "gallery": [
-      "https://i.ibb.co/DfqKG8vb/img-1776870363517.jpg",
-      "https://i.ibb.co/tptxffKK/img-1776870372828.jpg"
-    ],
-    "material": "Аметист, нефрит, циркон, морозный агат.",
-    "story": "Изысканный авторский гарнитур.",
-    "specs": [],
-    "isNew": true,
-    "inStock": true,
-    "isActive": true,
-    "type": "bundle",
-    "childIds": [
-      "LHz3vgeSTIW1NCWA9Ycy",
-      "aGrUA0ccHaC6TyTq10uc"
-    ],
-    "parentId": "",
-    "createdAt": "2026-04-22T15:08:47.000Z"
-  },
-  {
-    "id": "aGrUA0ccHaC6TyTq10uc",
-    "name": "«Лавандовая Голубика» — Браслет",
-    "slug": "lavandovaya-golubika-braslet",
-    "category": "bracelets",
-    "price": 7500,
-    "mainImage": "https://i.ibb.co/6cCL740F/img-1776870459543.jpg",
-    "gallery": [
-      "https://i.ibb.co/6cCL740F/img-1776870459543.jpg"
-    ],
-    "material": "Аметист, нефрит, циркон, лэмпворк.",
-    "story": "Браслет с надежным замочком.",
-    "specs": [
-      "Длина 20 см",
-      "Фурнитура с позолотой"
-    ],
-    "isNew": false,
-    "inStock": true,
-    "isActive": true,
-    "type": "single",
-    "childIds": [],
-    "parentId": "",
-    "createdAt": "2026-04-22T15:08:47.000Z"
   }
 ]
