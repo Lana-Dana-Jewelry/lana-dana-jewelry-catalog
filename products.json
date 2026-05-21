@@ -1,5 +1,57 @@
 [
   {
+    "id": "09Qs1InveyFAsDiBscHE",
+    "name": "«Южный Бриз» — Серьги",
+    "slug": "yuzhnyy-briz-sergi",
+    "category": "earrings",
+    "price": 2500,
+    "mainImage": "https://i.ibb.co/vvPNL4V1/img-1777269784067.jpg",
+    "gallery": [
+      "https://i.ibb.co/WvXLfJCy/img-1776873097065.jpg",
+      "https://i.ibb.co/vvPNL4V1/img-1777269784067.jpg"
+    ],
+    "material": "Жемчуг Майорка, позолоченный сплав",
+    "story": "Длинные, струящиеся серьги с жемчугом Майорка.",
+    "specs": [
+      "Длина 7,5 см",
+      "Жемчуг Майорка"
+    ],
+    "isNew": false,
+    "inStock": true,
+    "isActive": true,
+    "type": "single",
+    "childIds": [],
+    "parentId": "",
+    "createdAt": "2026-05-21T16:22:29.621Z"
+  },
+  {
+    "id": "DS8K7Z2CmG6q72H40QB1",
+    "name": "«Южный Бриз» — Колье",
+    "slug": "yuzhnyy-briz-kole",
+    "category": "necklaces",
+    "price": 5900,
+    "mainImage": "https://i.ibb.co/zhkKw381/img-1777269924947.jpg",
+    "gallery": [
+      "https://i.ibb.co/8L0ST7jF/img-1776873011051.jpg",
+      "https://i.ibb.co/CpBVXCs9/img-1776873016992.jpg",
+      "https://i.ibb.co/Wvc2NPp9/img-1776873022306.jpg",
+      "https://i.ibb.co/zhkKw381/img-1777269924947.jpg"
+    ],
+    "material": "Натуральный жемчуг, позолота",
+    "story": "Изысканное колье из трех нитей натурального жемчуга.",
+    "specs": [
+      "Длина 40 см",
+      "Три нити жемчуга"
+    ],
+    "isNew": false,
+    "inStock": true,
+    "isActive": true,
+    "type": "single",
+    "childIds": [],
+    "parentId": "",
+    "createdAt": "2026-05-21T16:22:23.374Z"
+  },
+  {
     "id": "2vgbG0aKwOrZzjtJExcD",
     "name": "Гарнитур «Южный Бриз»",
     "slug": "garnitur-yuzhnyy-briz",
@@ -25,58 +77,6 @@
     ],
     "parentId": "",
     "createdAt": "2026-05-19T15:27:57.148Z"
-  },
-  {
-    "id": "DS8K7Z2CmG6q72H40QB1",
-    "name": "«Южный Бриз» — Колье",
-    "slug": "yuzhnyy-briz-kole",
-    "category": "necklaces",
-    "price": 5900,
-    "mainImage": "https://i.ibb.co/8L0ST7jF/img-1776873011051.jpg",
-    "gallery": [
-      "https://i.ibb.co/8L0ST7jF/img-1776873011051.jpg",
-      "https://i.ibb.co/CpBVXCs9/img-1776873016992.jpg",
-      "https://i.ibb.co/Wvc2NPp9/img-1776873022306.jpg",
-      "https://i.ibb.co/zhkKw381/img-1777269924947.jpg"
-    ],
-    "material": "Натуральный жемчуг, позолота",
-    "story": "Изысканное колье из трех нитей натурального жемчуга.",
-    "specs": [
-      "Длина 40 см",
-      "Три нити жемчуга"
-    ],
-    "isNew": false,
-    "inStock": true,
-    "isActive": true,
-    "type": "single",
-    "childIds": [],
-    "parentId": "2vgbG0aKwOrZzjtJExcD",
-    "createdAt": "2026-05-19T15:27:57.073Z"
-  },
-  {
-    "id": "09Qs1InveyFAsDiBscHE",
-    "name": "«Южный Бриз» — Серьги",
-    "slug": "yuzhnyy-briz-sergi",
-    "category": "earrings",
-    "price": 2500,
-    "mainImage": "https://i.ibb.co/WvXLfJCy/img-1776873097065.jpg",
-    "gallery": [
-      "https://i.ibb.co/WvXLfJCy/img-1776873097065.jpg",
-      "https://i.ibb.co/vvPNL4V1/img-1777269784067.jpg"
-    ],
-    "material": "Жемчуг Майорка, позолоченный сплав",
-    "story": "Длинные, струящиеся серьги с жемчугом Майорка.",
-    "specs": [
-      "Длина 7,5 см",
-      "Жемчуг Майорка"
-    ],
-    "isNew": false,
-    "inStock": true,
-    "isActive": true,
-    "type": "single",
-    "childIds": [],
-    "parentId": "2vgbG0aKwOrZzjtJExcD",
-    "createdAt": "2026-05-19T15:27:57.010Z"
   },
   {
     "id": "mrAqpLj7xHyRiTd2HjyY",
