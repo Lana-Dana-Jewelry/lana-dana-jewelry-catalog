@@ -1,26 +1,5 @@
 [
   {
-    "id": "W276ZTB8",
-    "name": "Цива",
-    "slug": "tsiva",
-    "category": "necklaces",
-    "price": 112,
-    "mainImage": "https://storage.yandexcloud.net/lana-dana-media/products/img-1787491376485-f5t7tr.jpg",
-    "gallery": [
-      "https://storage.yandexcloud.net/lana-dana-media/products/img-1787491376485-f5t7tr.jpg"
-    ],
-    "material": "",
-    "story": "апвыаываыва",
-    "specs": [],
-    "isNew": true,
-    "inStock": true,
-    "isActive": true,
-    "type": "single",
-    "childIds": [],
-    "parentId": "",
-    "createdAt": "2026-08-23T13:22:56.801Z"
-  },
-  {
     "id": "09Qs1InveyFAsDiBscHE",
     "name": "«Южный Бриз» — Серьги",
     "slug": "yuzhnyy-briz-sergi",
